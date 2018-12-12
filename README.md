@@ -1,5 +1,5 @@
 # Huawei Router HG532 - Arbitrary Command Execution
-- Don't be evil and don't be a script kidde.
+- Don't be evil and don't be script kidde.
 ```python
 import logging,urllib2,requests,os,sys
 from requests.auth import HTTPDigestAuth
